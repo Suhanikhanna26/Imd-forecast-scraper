@@ -66,10 +66,14 @@ driver.quit()
 
 df = pd.DataFrame(records)
 
+import os
+
+file_exists = os.path.exists("data/imd_forecast.csv")
+
 df.to_csv(
     "data/imd_forecast.csv",
     mode="a",
-    header=not os.path.exists("data/imd_forecast.csv"),
+    header=not file_exists,
     index=False
 )
 
