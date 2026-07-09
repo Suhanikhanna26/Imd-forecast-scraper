@@ -1,0 +1,54 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+ecmwf_data/
+*.grib
+*.grib2
+*.nc
+*.zip
+
+# Temporary html files
+*.html
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*
+scrape_imd.py
+download_ecmwf.py
+import os--impo.txt
+
+/ecmwf_data/
+/ecmwf_data.zip
+
+
+# ECMWF data
+/ecmwf_data/
+/ecmwf_data/**
+*.grib
+*.grib2
+*.aux.xml
+*.zip
+
+# Generated HTML
+*.html
+
+# Scripts not needed
+download_ecmwf.py
+scrape_imd.py
+test_imd.py
+imd_scraper.py
