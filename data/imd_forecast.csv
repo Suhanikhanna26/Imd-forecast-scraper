@@ -379,3 +379,10 @@ scrape_time,station,forecast_date,max_temp,min_temp,forecast,warning
 2026-07-22 14:09:44.343863,Mumbai-Colaba,26-JUL,29,26,Generally cloudy sky with moderate rain,No warning
 2026-07-22 14:09:44.365437,Mumbai-Colaba,27-JUL,29,26,Generally cloudy sky with moderate rain,No warning
 2026-07-22 14:09:44.386864,Mumbai-Colaba,28-JUL,29,26,Generally cloudy sky with moderate rain,No warning
+2026-07-22 19:36:01.036511,Mumbai-Colaba,22-JUL,29,25,Generally cloudy sky with Heavy rain,Heat Wave
+2026-07-22 19:36:01.082512,Mumbai-Colaba,23-JUL,30,25,Warm Night,Heat Wave
+2026-07-22 19:36:01.128341,Mumbai-Colaba,24-JUL,30,26,Generally cloudy sky with moderate rain,No warning
+2026-07-22 19:36:01.173923,Mumbai-Colaba,25-JUL,29,26,Generally cloudy sky with moderate rain,No warning
+2026-07-22 19:36:01.217717,Mumbai-Colaba,26-JUL,29,26,Generally cloudy sky with moderate rain,No warning
+2026-07-22 19:36:01.259105,Mumbai-Colaba,27-JUL,29,26,Generally cloudy sky with moderate rain,No warning
+2026-07-22 19:36:01.304212,Mumbai-Colaba,28-JUL,29,26,Generally cloudy sky with moderate rain,No warning
