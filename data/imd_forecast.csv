@@ -661,3 +661,10 @@ scrape_time,station,forecast_date,max_temp,min_temp,forecast,warning
 2026-08-02 03:30:04.305740,Mumbai-Colaba,5-AUG,31,27,Generally cloudy sky with moderate rain,No warning
 2026-08-02 03:30:04.342104,Mumbai-Colaba,6-AUG,32,27,Generally cloudy sky with moderate rain,No warning
 2026-08-02 03:30:04.377379,Mumbai-Colaba,7-AUG,32,27,Generally cloudy sky with moderate rain,No warning
+2026-08-02 08:31:59.577904,Mumbai-Colaba,2-AUG,31,27,Generally cloudy sky with Light rain,No warning
+2026-08-02 08:31:59.622958,Mumbai-Colaba,3-AUG,30,28,Generally cloudy sky with moderate rain,No warning
+2026-08-02 08:31:59.669235,Mumbai-Colaba,4-AUG,31,28,Generally cloudy sky with moderate rain,No warning
+2026-08-02 08:31:59.715722,Mumbai-Colaba,5-AUG,32,27,Generally cloudy sky with Light rain,No warning
+2026-08-02 08:31:59.760834,Mumbai-Colaba,6-AUG,32,27,Generally cloudy sky with Light rain,No warning
+2026-08-02 08:31:59.802290,Mumbai-Colaba,7-AUG,31,27,Generally cloudy sky with Light rain,No warning
+2026-08-02 08:31:59.843568,Mumbai-Colaba,8-AUG,31,27,Generally cloudy sky with moderate rain,No warning
