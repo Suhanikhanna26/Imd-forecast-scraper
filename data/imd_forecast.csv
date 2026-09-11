@@ -1705,3 +1705,10 @@ scrape_time,station,forecast_date,max_temp,min_temp,forecast,warning
 2026-09-11 16:14:52.435215,Mumbai-Colaba,15-SEP,31,26,Generally cloudy sky with moderate rain,No warning
 2026-09-11 16:14:52.469135,Mumbai-Colaba,16-SEP,32,26,Generally cloudy sky with Light rain,No warning
 2026-09-11 16:14:52.503013,Mumbai-Colaba,17-SEP,32,26,Generally cloudy sky with Light rain,No warning
+2026-09-11 20:47:23.311675,Mumbai-Colaba,11-SEP,32,26,Generally cloudy sky with Light rain,No warning
+2026-09-11 20:47:23.340527,Mumbai-Colaba,12-SEP,32,27,Rain or thundershowers would occur towards afternoon or evening,Thunderstorm accompanied with lightning & gusty winds(30-40kmph)
+2026-09-11 20:47:23.368670,Mumbai-Colaba,13-SEP,31,26,Partly cloudy sky with possibility of moderate rain or Thunderstorm,Heavy Rainfall
+2026-09-11 20:47:23.397785,Mumbai-Colaba,14-SEP,30,25,Generally cloudy sky with moderate rain,No warning
+2026-09-11 20:47:23.425562,Mumbai-Colaba,15-SEP,31,26,Generally cloudy sky with moderate rain,No warning
+2026-09-11 20:47:23.451551,Mumbai-Colaba,16-SEP,32,26,Generally cloudy sky with Light rain,No warning
+2026-09-11 20:47:23.477508,Mumbai-Colaba,17-SEP,32,26,Generally cloudy sky with Light rain,No warning
