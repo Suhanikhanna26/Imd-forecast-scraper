@@ -2220,3 +2220,9 @@ scrape_time,station,forecast_date,max_temp,min_temp,forecast,warning
 2026-10-01 22:32:58.782610,Mumbai-Colaba,5-OCT,33,27,Generally cloudy sky with moderate rain,No warning
 2026-10-01 22:32:58.813887,Mumbai-Colaba,6-OCT,33,26,Generally cloudy sky with moderate rain,No warning
 2026-10-01 22:32:58.845142,Mumbai-Colaba,7-OCT,33,26,Generally cloudy sky with moderate rain,No warning
+2026-10-02 05:03:18.256668,Mumbai-Colaba,2-OCT,33,26,Generally cloudy sky with moderate rain,No warning
+2026-10-02 05:03:18.294838,Mumbai-Colaba,3-OCT,34,27,Partly cloudy sky,No warning
+2026-10-02 05:03:18.333912,Mumbai-Colaba,4-OCT,34,27,Partly cloudy sky,No warning
+2026-10-02 05:03:18.374242,Mumbai-Colaba,5-OCT,33,27,Generally cloudy sky with moderate rain,No warning
+2026-10-02 05:03:18.413137,Mumbai-Colaba,6-OCT,33,26,Generally cloudy sky with moderate rain,No warning
+2026-10-02 05:03:18.449453,Mumbai-Colaba,7-OCT,33,26,Generally cloudy sky with moderate rain,No warning
