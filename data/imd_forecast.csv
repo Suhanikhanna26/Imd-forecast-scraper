@@ -3239,3 +3239,10 @@ scrape_time,station,forecast_date,max_temp,min_temp,forecast,warning
 2026-11-17 15:47:00.005345,Mumbai-Colaba,21-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
 2026-11-17 15:47:00.031852,Mumbai-Colaba,22-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
 2026-11-17 15:47:00.055600,Mumbai-Colaba,23-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
+2026-11-18 00:49:31.549028,Mumbai-Colaba,17-NOV,33,24,Mainly Clear sky,No warning
+2026-11-18 00:49:31.571364,Mumbai-Colaba,18-NOV,33,23,Mainly Clear sky,No warning
+2026-11-18 00:49:31.593718,Mumbai-Colaba,19-NOV,34,23,Mainly Clear sky,No warning
+2026-11-18 00:49:31.618482,Mumbai-Colaba,20-NOV,34,23,Fog/mist in the morning and mainly clear sky later,No warning
+2026-11-18 00:49:31.641600,Mumbai-Colaba,21-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
+2026-11-18 00:49:31.664630,Mumbai-Colaba,22-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
+2026-11-18 00:49:31.685287,Mumbai-Colaba,23-NOV,35,25,Fog/mist in the morning and mainly clear sky later,No warning
